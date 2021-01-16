@@ -1,3 +1,6 @@
+property:
+  test2
+
 management:
   endpoints:
     web:
